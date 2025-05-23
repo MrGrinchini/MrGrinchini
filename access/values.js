@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "01.01.2001"; // Дата рождения
+var birthdate = "12.02.1998"; // Дата рождения
 var fullname = "Овдієнко Андрій Михайлович" // ФИО
 var name = "Андрій" // Имя
 
